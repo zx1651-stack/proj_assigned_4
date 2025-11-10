@@ -1,3 +1,5 @@
+about 23 hours late, so I think it should be minus 10 points?
+
 There are 3 enemies:
 The wandering witch, the bullet, and the ball, while the ball is the follower
 
